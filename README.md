@@ -1,4 +1,3 @@
-# ai-workflows
 # AI Workflows & Agent Orchestration
 
 This repository contains practical AI automation workflows focused on
